@@ -1,4 +1,4 @@
-# vac_clr_AI
+# Vacuum Cleaner AI
 Vacuum Cleaner in AI World
 
 I decided to provide a code in python language to show how a vacuum cleaner can clean an environment by random local search algorithms.
