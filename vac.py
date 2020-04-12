@@ -88,7 +88,7 @@ cleaned_pieces = 0
 
 
 rows = 2                  #Row number
-cols = 3                  #Column number
+cols = 4                  #Column number
 vac_pos = [2,1]           #Current Cursor
 initmap(rows,cols)
 
@@ -97,7 +97,7 @@ tmp_maps = maps[:]
 print('-------------------------------------')
 print('Current Cursor Location :' , vac_pos)
 print('-------------------------------------')
-print('env. after cleaning:')
+print('env. before cleaning:')
 #showing the whole env.
 for i in range (rows):
     print (maps[i])
