@@ -19,5 +19,7 @@ In the following, i will examine the PEAS(Performance,Environment,Actuators,Sens
 
 
 Finally, the result is as follows:
-![Image description](https://github.com/gholinejad/vac_clr_AI/blob/master/vac_random_result.png)
+
+
+![Result](https://github.com/gholinejad/vac_clr_AI/blob/master/vac_random_result.png)
 
